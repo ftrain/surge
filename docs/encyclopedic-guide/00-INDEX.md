@@ -317,6 +317,13 @@ Originally created by Claes Johanson as a commercial product (Vember Audio Surge
 - PDF generation
 - Styling and formatting
 
+**[Appendix F: Evolution Analysis](appendix-f-evolution.md)**
+- Seven-year development history (2018-2025)
+- How coding patterns changed
+- What developers learned
+- Community evolution and growth
+- Lessons for other projects
+
 ---
 
 ## How to Use This Guide
